@@ -1,10 +1,6 @@
 ## Project Title
 Netflix Content Analysis Dashboard
 
-## Google Sheets Link
-
-https://docs.google.com/spreadsheets/d/12PPaaZqRzw20HB-L8NEI2wQu_6QXq4BVZmWoonkMedE/edit?usp=sharing
-
 ## Tools Used
 
 - Google Sheets for data processing and visualization  
