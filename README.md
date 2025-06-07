@@ -33,11 +33,12 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 - Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
 
 ## Walkthrough
+Compared number of titles between Movies and TV Shows and analyzed the growth of Netflix content over time
 <img width="1347" alt="Screenshot 2025-06-05 at 3 43 40 PM" src="https://github.com/user-attachments/assets/547ca1bb-53fe-4156-9620-4cb73140a8d4" />
 
-
+Analyzed the top genres on Netflix and the average duration of a netflix Movie
 <img width="1356" alt="Screenshot 2025-06-05 at 3 43 47 PM" src="https://github.com/user-attachments/assets/3039941f-4e94-4e65-a8e7-60606035753b" />
 
-
+Analyzed the top countries producing most Movies on Netflix
 <img width="1310" alt="Screenshot 2025-06-05 at 3 43 52 PM" src="https://github.com/user-attachments/assets/bc3b05a1-b94a-4ce4-930a-56790daaa546" />
 ---
