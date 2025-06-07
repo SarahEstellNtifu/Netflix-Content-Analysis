@@ -48,8 +48,6 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 Sarah Ntifu – Entry level data enthusiast passionate about turning data into actionable insights.  
 LinkedIn: https://www.linkedin.com/in/sarahestellntifu/
 
-GitHub: https://github.com/SarahEstellNtifu/
-
 ---
 
 Feel free to explore, comment, and suggest improvements!
