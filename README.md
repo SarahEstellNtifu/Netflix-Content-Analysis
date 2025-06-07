@@ -42,12 +42,4 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 - Drama, International Movies, and Comedy are the most popular genres.  
 - Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
 
-
-## About Me
-
-Sarah Ntifu – Entry level data enthusiast passionate about turning data into actionable insights.  
-LinkedIn: https://www.linkedin.com/in/sarahestellntifu/
-
 ---
-
-Feel free to explore, comment, and suggest improvements!
