@@ -5,16 +5,6 @@ Netflix Content Analysis Dashboard
 
 https://docs.google.com/spreadsheets/d/12PPaaZqRzw20HB-L8NEI2wQu_6QXq4BVZmWoonkMedE/edit?usp=sharing
 
-## Screenshots
-
-<img width="1347" alt="Screenshot 2025-06-05 at 3 43 40 PM" src="https://github.com/user-attachments/assets/547ca1bb-53fe-4156-9620-4cb73140a8d4" />
-
-
-<img width="1356" alt="Screenshot 2025-06-05 at 3 43 47 PM" src="https://github.com/user-attachments/assets/3039941f-4e94-4e65-a8e7-60606035753b" />
-
-
-<img width="1310" alt="Screenshot 2025-06-05 at 3 43 52 PM" src="https://github.com/user-attachments/assets/bc3b05a1-b94a-4ce4-930a-56790daaa546" />
-
 ## Tools Used
 
 - Google Sheets for data processing and visualization  
@@ -42,4 +32,12 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 - Drama, International Movies, and Comedy are the most popular genres.  
 - Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
 
+## Walkthrough
+<img width="1347" alt="Screenshot 2025-06-05 at 3 43 40 PM" src="https://github.com/user-attachments/assets/547ca1bb-53fe-4156-9620-4cb73140a8d4" />
+
+
+<img width="1356" alt="Screenshot 2025-06-05 at 3 43 47 PM" src="https://github.com/user-attachments/assets/3039941f-4e94-4e65-a8e7-60606035753b" />
+
+
+<img width="1310" alt="Screenshot 2025-06-05 at 3 43 52 PM" src="https://github.com/user-attachments/assets/bc3b05a1-b94a-4ce4-930a-56790daaa546" />
 ---
