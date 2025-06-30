@@ -1,6 +1,8 @@
 ## Project Title
 Netflix Content Analysis Dashboard
 
+<img width="1676" alt="Screenshot 2025-06-30 at 1 22 26 PM" src="https://github.com/user-attachments/assets/e72e120b-c1df-46f7-a47c-f8238637f8bd" />
+
 ## Tools Used
 
 - Google Sheets for data processing and visualization  
@@ -29,19 +31,20 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 - Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
 
 ## Walkthrough
-Compared number of titles between Movies and TV Shows 
-<img width="1728" alt="Screenshot 2025-06-06 at 11 17 48 PM" src="https://github.com/user-attachments/assets/9cc86587-f54f-4213-b754-aa07444eb7be" />
-
 Analyzed the growth of Netflix content over time
-<img width="1727" alt="Screenshot 2025-06-06 at 11 18 43 PM" src="https://github.com/user-attachments/assets/11bc8ab9-6137-4bcf-b528-60189e64f4fd" />
+<img width="1516" alt="Screenshot 2025-06-30 at 1 24 17 PM" src="https://github.com/user-attachments/assets/c1a500f8-2cef-444e-91b6-13bfcb8478f8" />
 
 Analyzed the top genres on Netflix 
-<img width="1724" alt="Screenshot 2025-06-06 at 11 19 22 PM" src="https://github.com/user-attachments/assets/12528f2a-6f1c-4116-b7ba-556faa1d5854" />
-
-Determined the average duration of a netflix Movie
-<img width="1728" alt="Screenshot 2025-06-06 at 11 19 36 PM" src="https://github.com/user-attachments/assets/c4520a32-90f0-4d71-b3d6-f7db22b567c9" />
+<img width="1477" alt="Screenshot 2025-06-30 at 1 24 05 PM" src="https://github.com/user-attachments/assets/a3793656-57ca-4a00-899b-3d97c375f26a" />
 
 Analyzed the top countries producing most Movies on Netflix
-<img width="1728" alt="Screenshot 2025-06-06 at 11 18 05 PM" src="https://github.com/user-attachments/assets/ae05db37-ec38-4671-99a8-aa85094ab75a" />
+<img width="1458" alt="Screenshot 2025-06-30 at 1 23 53 PM" src="https://github.com/user-attachments/assets/afd8d9b5-d060-454d-9f71-ab9a102c23db" />
+
+Analyzed the monthly content analysis
+<img width="1436" alt="Screenshot 2025-06-30 at 1 24 22 PM" src="https://github.com/user-attachments/assets/53d340a7-8079-48d2-aff8-9668e41dfdd5" />
+
+Analyzed Top Ratings
+<img width="1455" alt="Screenshot 2025-06-30 at 1 24 29 PM" src="https://github.com/user-attachments/assets/e4ed204a-e325-48b9-ae22-1790e5d582f7" />
+
 
 ---
