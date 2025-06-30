@@ -31,6 +31,12 @@ This project involved cleaning and analyzing Netflix's content dataset using Goo
 - Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
 
 ## Walkthrough
+Raw Data
+<img width="1497" alt="Screenshot 2025-06-30 at 1 23 42 PM" src="https://github.com/user-attachments/assets/09e53bd7-a0b4-4187-90f7-2cc116bd2247" />
+
+Cleaned Data
+<img width="1682" alt="Screenshot 2025-06-30 at 1 23 04 PM" src="https://github.com/user-attachments/assets/b336a2b5-d2db-4efb-ab49-b4d445272c7e" />
+
 Analyzed the growth of Netflix content over time
 <img width="1516" alt="Screenshot 2025-06-30 at 1 24 17 PM" src="https://github.com/user-attachments/assets/c1a500f8-2cef-444e-91b6-13bfcb8478f8" />
 
