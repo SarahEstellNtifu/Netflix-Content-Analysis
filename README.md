@@ -1,34 +1,49 @@
 ## Project Title
 Netflix Content Analysis Dashboard
 
+I conducted an end-to-end analysis of Netflix’s content catalog using Microsoft Excel. This project demonstrates advanced Excel techniques including data cleaning, transformation, pivot tables, and interactive charts to deliver a clear, data-driven story of Netflix’s global content strategy.
+
+The goal of this analysis was to uncover patterns in content type, genre popularity, country contributions, release trends, and movie duration distribution, while building a professional and insightful visual dashboard within Excel.
+
 <img width="1676" alt="Screenshot 2025-06-30 at 1 22 26 PM" src="https://github.com/user-attachments/assets/e72e120b-c1df-46f7-a47c-f8238637f8bd" />
 
-## Tools Used
+## Tools & Techniques Used
+Microsoft Excel
+  - Data Cleaning (Text Functions, Filtering, De-duplication)
+  - Pivot Tables for multi-dimensional analysis
+  - Conditional Formatting for highlighting trends
+  - Charts & Visualizations (Column, Bar, Pie, Line Charts)
+  - Summary Dashboards for executive-level presentation
 
-- Google Sheets for data processing and visualization  
-- Pivot Tables 
-- Data Cleaning  
-- Charting and Visualization for insights
+Key Analytical Methods:
+  - Descriptive Statistics
+  - Trend Analysis
+  - Distribution Analysis
+  - Comparative Analysis
   
-## Summary of Insights
+## Key Insights
+- Content Type Distribution:
+   - 69% of Netflix titles are Movies while 31% are TV Shows, indicating a movie-heavy content strategy.
+- Top Genres:
+   - The leading genres are International Movies, Drama, and Comedy, reflecting Netflix's focus on global and diverse storytelling.
+- Top Content-Producing Countries:
+   - The United States, United Kingdom, and France are the top content contributors, highlighting strong Western influence in Netflix’s library.
+- Content Growth Over Time:
+   - Netflix experienced a significant expansion between 2016 and 2020, with a noticeable peak in content additions during this period.
+- Movie Duration Distribution:
+   - The majority of movies cluster around 75 and 100 minutes, showcasing a mix of shorter and traditional-length films suitable for various audiences.
 
-- TV vs Movie Distribution: The majority of titles are movies (69%).
-- Top Genres: International Movies and Dramas dominate Netflix’s library.
-- Top Countries: Most content comes from the U.S. and U.K.
-- Content Growth: Sharp increase in titles between 2016–2020.
-- Movie Duration Distribution: Common durations cluster around 75 and 100 minutes, showing both short and standard-length formats.
 
-## Project Description
-This project involved cleaning and analyzing Netflix's content dataset using Google Sheets. I explored trends in genre, duration, content type, and global reach to build a visual dashboard for insights.
-
-
-## Summary of Findings
-
-- Netflix content consists mostly of Movies compared to TV Shows.  
-- The United States, United Kingdom, and France are the top countries producing Netflix movies.  
-- Content has steadily grown over the years, with peaks around 2018-2020.  
-- Drama, International Movies, and Comedy are the most popular genres.  
-- Movie durations tend to cluster around 75 and 100 minutes, indicating a mix of shorter and standard-length films.
+## Project Deliverables
+- Cleaned Dataset:
+   - Standardized genres, countries, and duration values.
+- Pivot Tables & Interactive Visuals:
+    - Content distribution by type and year
+    - Top genres and top countries
+    - Monthly content addition trends
+    - Movie duration histogram
+- Executive Summary Dashboard:
+    - High-level insights summarized for non-technical audiences.
 
 ## Walkthrough
 Raw Data
